@@ -1,0 +1,24 @@
+.welcome-card ion-img {
+  max-height: 35vh;
+  overflow: hidden;
+  ///background-image: 
+ // --background: url(/assets/angola.jpg)
+}
+/*.background ion-content{
+ // --background: url(/assets/angola.jpg);
+  --background-image: url(/src/assets/angola.jpg);
+ background-color: aqua;
+}*/
+ion-content.background{
+ // --ion-background-color:#AF5921;
+  --background: url(/assets/angola.jpg);
+}
+/*ion-button.botao1{
+ --margin-bottom: 0px;
+ --margin-right: 40px;
+}*/
+
+
+
+
+

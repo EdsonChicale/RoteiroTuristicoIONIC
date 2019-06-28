@@ -1,0 +1,7 @@
+{
+  "name": "cardapio-movel",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
